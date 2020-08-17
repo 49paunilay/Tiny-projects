@@ -7,3 +7,4 @@ I will upload new python projets here which are
 2. PASSWORD GENERATOR
 3. Covid 19 update
 4. Text to speech
+5. URL Shortner
